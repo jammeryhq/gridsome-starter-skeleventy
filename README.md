@@ -6,7 +6,7 @@
 
 
 ## Demo
-[https://skeleventy.jammeryhq.com](https://gskeleventy.jammeryhq.com)
+[https://skeleventy.jammeryhq.com](https://skeleventy.jammeryhq.com)
 
 ## Features
 
