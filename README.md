@@ -15,13 +15,11 @@ Fast-track your JAMstack development & learning
 
 # About this starter
 
-Gridsome starter that is ideal for blogs that uses markdown for the content and tailwindcss for the styles.
-
-This starter is based on the theme from [Joseph Dyer](https://github.com/josephdyer) and tailwindcss.
+Gridsome starter based on the Skeleventy theme for Eleventy. Content is added via markdown, while Tailwind CSS is used for the layout/styling.
 
 ## Key features
 
-* Built with tailwindcss
+* Built with Tailwind CSS
 * Responsive 
 * Pagination
 
@@ -32,3 +30,7 @@ Run the following command to create a new gridsome project
 ```
 gridsome create my-blog https://github.com/jammeryhq/gridsome-starter-skeleventy
 ```
+
+## Credits
+
+This starter is based on the theme from [Joseph Dyer](https://github.com/josephdyer).
