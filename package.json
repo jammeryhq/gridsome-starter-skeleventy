@@ -9,14 +9,14 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.3.0",
     "@gridsome/source-filesystem": "^0.6.2",
-    "@gridsome/transformer-remark": "^0.6.0",
-    "gridsome": "^0.7.17",
+    "@gridsome/transformer-remark": "^0.6.2",
+    "gridsome": "^0.7.20",
     "gridsome-source-static-meta": "github:noxify/gridsome-source-static-meta#master",
-    "sass": "^1.26.9",
+    "sass": "^1.26.10",
     "postcss-import": "^12.0.1",
-    "postcss-nested": "^4.2.1",
+    "postcss-nested": "^4.2.3",
     "prism-themes": "^1.4.0",
-    "sass-loader": "^8.0.2"
+    "sass-loader": "^10.0.2"
   },
   "devDependencies": {
     "gridsome-plugin-tailwindcss": "^3.0.1"

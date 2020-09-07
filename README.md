@@ -1,37 +1,34 @@
-# Gridsome Skeleventy Starter
+<div align="center">
 
-## Credits
+<a href="https://www.jammeryhq.com" title="JammeryHQ" target="_blank">
 
-* This starter was initial created by [Joseph Dyer](https://github.com/josephdyer).
+  <img src="./jammeryhq.png" width="128" />
+  
+</a>
 
+<p>
+Fast-track your JAMstack development & learning
+</p>
+</div>
 
-## Demo
-[https://skeleventy.jammeryhq.com](https://skeleventy.jammeryhq.com)
+<hr />
 
-## Features
+# About this starter
 
-* Gridsome
-* Tailwindcss
-* SCSS
-* Markdown
-* Tags
-* Blog
+Gridsome starter that is ideal for blogs that uses markdown for the content and tailwindcss for the styles.
 
-## Plugins
+This starter is based on the theme from [Joseph Dyer](https://github.com/josephdyer) and tailwindcss.
 
-With Gridsome offering a plugin-rich ecosystem, there are a few key plugins that make this project possible. 
+## Key features
 
-- [Gridsome Source Filesystem](https://gridsome.org/plugins/@gridsome/source-filesystem) Transform files into content that can be fetched with GraphQL in your components.
+* Built with tailwindcss
+* Responsive 
+* Pagination
 
-## Install
+## Installation
 
-### 1. Install Gridsome CLI tool if you don't have
+Run the following command to create a new gridsome project 
 
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-blog https://github.com/jammeryhq/gridsome-starter-skeleventy` to install gridsome with this starter
-2. `cd my-blog` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+```
+gridsome create my-blog https://github.com/jammeryhq/gridsome-starter-liebling
+```
