@@ -6,7 +6,7 @@
 
 
 ## Demo
-[https://gridsome-starter-skeleventy.now.sh/](https://gridsome-starter-skeleventy.now.sh/)
+[https://skeleventy.jammeryhq.com](https://gskeleventy.jammeryhq.com)
 
 ## Features
 
