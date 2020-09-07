@@ -30,5 +30,5 @@ This starter is based on the theme from [Joseph Dyer](https://github.com/josephd
 Run the following command to create a new gridsome project 
 
 ```
-gridsome create my-blog https://github.com/jammeryhq/gridsome-starter-liebling
+gridsome create my-blog https://github.com/jammeryhq/gridsome-starter-skeleventy
 ```
