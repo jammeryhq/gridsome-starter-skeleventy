@@ -9,7 +9,7 @@ a {
 
 /* don't hide from screen readers */
 .visually-hidden {
-    @apply m-0 p-0 absolute whitespace-no-wrap overflow-hidden h-auto;
+    @apply m-0 p-0 absolute whitespace-nowrap overflow-hidden h-auto;
     border: 0;
     clip: rect(0 0 0 0);
     width: 1px;
